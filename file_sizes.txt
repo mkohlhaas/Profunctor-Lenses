@@ -1,0 +1,40 @@
+$ find src/ -name *.purs | xargs wc -l | sort -n
+  9 src/Data/Lens/Lens/Void.purs
+ 15 src/Data/Lens/Internal/Exchange.purs
+ 15 src/Data/Lens/Internal/Zipping.purs
+ 15 src/Data/Lens/Lens/Unit.purs
+ 15 src/Data/Lens/Prism/Maybe.purs
+ 16 src/Data/Lens/Lens/Product.purs
+ 16 src/Data/Lens/Prism/Coproduct.purs
+ 17 src/Data/Lens/Internal/Grating.purs
+ 17 src/Data/Lens/Lens/Tuple.purs
+ 17 src/Data/Lens/Prism/Either.purs
+ 19 src/Data/Lens/Iso/Newtype.purs
+ 20 src/Data/Lens/Internal/Shop.purs
+ 21 src/Data/Lens/Internal/Focusing.purs
+ 21 src/Data/Lens/Zoom.purs
+ 23 src/Data/Lens.purs
+ 24 src/Data/Lens/Internal/Market.purs
+ 25 src/Data/Lens/Internal/Wander.purs
+ 29 src/Data/Lens/Record.purs
+ 32 src/Data/Lens/Internal/Bazaar.purs
+ 33 src/Data/Lens/Fold/Partial.purs
+ 35 src/Data/Lens/Internal/Re.purs
+ 37 src/Data/Lens/Internal/Indexed.purs
+ 42 src/Data/Lens/Common.purs
+ 45 src/Data/Lens/Grate.purs
+ 45 src/Data/Lens/Internal/Forget.purs
+ 52 src/Data/Lens/AffineTraversal.purs
+ 54 src/Data/Lens/Internal/Stall.purs
+ 54 src/Data/Lens/Internal/Tagged.purs
+ 59 src/Data/Lens/Getter.purs
+ 64 src/Data/Lens/At.purs
+ 82 src/Data/Lens/Indexed.purs
+100 src/Data/Lens/Lens.purs
+103 src/Data/Lens/Iso.purs
+114 src/Data/Lens/Index.purs
+144 src/Data/Lens/Setter.purs
+152 src/Data/Lens/Traversal.purs
+201 src/Data/Lens/Prism.purs
+206 src/Data/Lens/Types.purs
+326 src/Data/Lens/Fold.purs

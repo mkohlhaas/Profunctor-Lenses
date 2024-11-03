@@ -1,0 +1,9 @@
+.*
+!.gitignore
+!.github
+!.editorconfig
+!.tidyrc.json
+
+output
+generated-docs
+bower_components
