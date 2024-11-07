@@ -1,5 +1,3 @@
--- https://www.reddit.com/r/haskell/comments/1thjot/24_days_of_hackage_profunctors_guest_post_by_tom/
-
 -- | This module defines the `Exchange` profunctor
 module Data.Lens.Internal.Exchange where
 

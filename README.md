@@ -52,3 +52,9 @@ If you get stuck, there are several ways to get help:
 
 - [Open an issue](https://github.com/purescript-contrib/purescript-profunctor-lenses/issues) if you have encountered a bug or problem.
 - Ask general questions on the [PureScript Discourse](https://discourse.purescript.org) forum or the [PureScript Discord](https://purescript.org/chat) chat.
+
+## Linkes
+
+- [Profunctors](https://golem.ph.utexas.edu/category/2020/01/profunctor_optics_the_categori.html)
+- [Exchange Profunctor](https://www.reddit.com/r/haskell/comments/1thjot/24_days_of_hackage_profunctors_guest_post_by_tom/)
+
